@@ -192,12 +192,6 @@ onUnmounted(() => {
           <p class="text-2xl text-gray-800 font-serif mb-10 italic leading-relaxed">
             "{{ selectedNote }}"
           </p>
-          <button
-            @click="selectedNote = null"
-            class="w-full bg-pink-500 text-white font-bold py-4 rounded-2xl shadow-lg hover:bg-pink-600 transition-all active:scale-95"
-          >
-            I love you too
-          </button>
         </div>
       </div>
     </Transition>
