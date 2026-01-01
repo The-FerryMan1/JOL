@@ -42,7 +42,7 @@ const messages = [
   'Your eyes are so beautiful. One of a kind. Sana sa akin lang nakatingin 😏',
   "I'm always here for you. Sasamahan kita sa anumang hamon sa buhay.",
   "You're so pretty! 😍",
-  'Sana tayo na habang buhay! ☺️',
+  'Tayo na habang buhay! (She claimed it!) ☺️',
 ]
 
 onMounted(() => {
